@@ -8,4 +8,4 @@
 
 # The following shows how to override the Nodejs version:
 #
-normal[:opsworks_nodejs][:version] = '4.7.7'
+normal[:opsworks_nodejs][:version] = '4.4.7'
